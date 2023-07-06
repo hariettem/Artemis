@@ -46,14 +46,14 @@ On the other hand - don't be scared to break things. Let out your inner rockstar
 
 ## Known Issues <a name = "known_issues"></a>
 
-See all current issues on the issue tracker [issue tracker](https://github.com/hariettem/Artemis/issues). Below are a number of issues we are aware of, and do not need bug reports for:
+See reported in the [issue tracker](https://github.com/hariettem/Artemis/issues). Below are a number of issues we are aware of, and do not need bug reports for:
 
-1. Voting/boosting child comments errors out (kbin.social instance). [Issue](https://github.com/hariettem/Artemis/issues/101)
-2. Voting/boosting a post in the comment page doesn’t update when going back. [Issue](https://github.com/hariettem/Artemis/issues/37)
-3. Image previewer interactions are not smooth. [Issue](https://github.com/hariettem/Artemis/issues/75)
-4. Opening imgur thumbnail throws an error. [Issue](https://github.com/hariettem/Artemis/issues/60)
-5. Following a community does not update the subscription list. [Issue](https://github.com/hariettem/Artemis/issues/63)
-6. Sometimes the app crashes and there’s a white screen. Relaunching app causes an endless cycle (unless you navigate away from the post page while loading). [Issue](https://github.com/hariettem/Artemis/issues/40)
+1. Voting/boosting child comments errors out (kbin.social instance). [[ISSUE]](https://github.com/hariettem/Artemis/issues/101)
+2. Voting/boosting a post in the comment page doesn’t update when going back. [[ISSUE]](https://github.com/hariettem/Artemis/issues/37)
+3. Image previewer interactions are not smooth. [[ISSUE]](https://github.com/hariettem/Artemis/issues/75)
+4. Opening imgur thumbnail throws an error. [[ISSUE]](https://github.com/hariettem/Artemis/issues/60)
+5. Following a community does not update the subscription list. [[ISSUE]](https://github.com/hariettem/Artemis/issues/63)
+6. Sometimes the app crashes and there’s a white screen. Relaunching app causes an endless cycle (unless you navigate away from the post page while loading). [[ISSUE]](https://github.com/hariettem/Artemis/issues/40)
 
 Bear in mind graphical and interaction tweaks will occur. To list a few:
 

@@ -2,8 +2,8 @@
 
 ## Table of Contents
 + [About](#about)
-+ [Getting Started](#getting_started)
 + [New to Beta Testing?](#new_beta)
++ [Getting Started](#getting_started)
 + [Known Issues](#known_issues)
 
 ## About <a name = "about"></a>
@@ -11,28 +11,7 @@
 
 Following the changes to [Reddit's API pricing](https://techcrunch.com/2023/06/09/reddit-ceo-doubles-down-on-attack-on-apollo-developer-in-drama-filled-ama/), the fediverse has had an influx of ex-Reddit users who previously made use of *Apollo*, a dedicated Reddit app for iOS. 
 
-**Artemis** aims to provide these users with a comparable experience for the fediverse, tailored and enhanced for interaction with instances of /kbin and Lemmy. 
-
-## Getting Started <a name = "getting_started"></a>
-In order for you to effectively contribute to these cycles of Beta testing, we have prepared this environment to gather feedback. Your feedback is essential in improving the user experience. Explore the app, share your thoughts, and report any issues you find. Together, let's make this app the best it can be. Thank you for joining us on this journey!
-
-Please make note of the following:
-- In order not to flood the kbin.social feed with Artemis test posts, please subscribe to and make use of the Artemis tester magazine: [[LINK]](https://kbin.social/m/ArtemisAppPlayground)
-
-- We are aware of some [existing issues](#known_issues). These issues should not be reported here. 
-
-- Similarly, do a quick search before reporting: there is a chance the bug/request might already be submitted, and you can confirm for us it's not a single occurence.  
-
-- When in doubt: It's a bug. We would rather encounter a duplicate post in the tracker, than run into that bug a month or six later down the line.
-
-- Report all applicable bugs here: [[LINK]](https://github.com/hariettem/Artemis/issues?q=is%3Aopen+is%3Aissue+label%3Abug)
-- New feature requests can be posted here: [[LINK]](https://github.com/hariettem/Artemis/labels/enhancement)
-- Check the development milestones here: [[LINK]](https://github.com/hariettem/Artemis/milestones)
-- Check out the ArtemisQuiver magazine on kbin here: [[LINK]](https://kbin.social/m/ArtemisQuiver/)
-
-We are using the ArtemisQuiver magazine for general discussion about Artemis during beta testing, but realistically you can use the [official magazine](https://kbin.social/m/ArtemisApp) as well! 
-
-Bugs should **not** be reported in the [Artemis Discord Server](https://discord.gg/mqcQuERsTW), though you are free to discuss your findings in the dedicated channels. 
+**Artemis** aims to provide these users with a comparable experience for the fediverse, tailored and enhanced for interaction with instances of /kbin and Lemmy.
 
 ## New to Beta Testing? <a name = "new_beta"></a>
 
@@ -44,6 +23,34 @@ This app is supposed to be your daily driver for interacting with kbin, so it be
 
 On the other hand - don't be scared to break things. Let out your inner rockstar. Smash that like button. Pull down to refresh a few times and swipe before the page can change. Rotate your phone while an image is loading. All that matters to us is - it's a bug, and we can only fix it if we're aware of its existence.
 
+## Getting Started <a name = "getting_started"></a>
+In order for you to effectively contribute to these cycles of Beta testing, we have prepared this environment to gather feedback. Your feedback is essential in improving the user experience. Explore the app, share your thoughts, and report any issues you find. Together, let's make this app the best it can be. Thank you for joining us on this journey!
+
+**Official Communication Channels**
+
+- Discord Server [[LINK]](https://discord.gg/mqcQuERsTW)
+- Matrix Group [[LINK]](https://matrix.to/#/#artemis-app:matrix.org)
+- kbin official magazine (ArtemisApp) [[LINK]](https://kbin.social/m/ArtemisApp)
+- GitHub [[LINK]](https://github.com/hariettem/Artemis)
+
+**Reporting of Bugs, Enhancement, and Accesibility Requests**
+
+- GitHub: Bugs [[LINK](https://github.com/hariettem/Artemis/issues?q=label%3ABug+)
+- GitHub: Enhancements [[LINK]](https://github.com/hariettem/Artemis/issues?q=label%3AEnhancement+)
+- GitHub: Accesibility [[LINK]](https://github.com/hariettem/Artemis/issues?q=label%3AAccessibility+)
+
+**App Testing**
+
+- kbin beta magazine (ArtemisQuiver) [[LINK]](https://kbin.social/m/ArtemisQuiver)
+- kbin testing magazine (ArtemisAppPlayground) [[LINK]](https://kbin.social/m/ArtemisAppPlayground)
+- kbin testing instance [[LINK]](https://artemis.camp)
+
+**Misc**
+
+- We are aware of some [existing issues](#known_issues). These issues should not be reported here. 
+- Similarly, do a quick search before reporting: there is a chance the bug/request might already be submitted, and you can confirm for us it's not a single occurence.
+- When in doubt: It's a bug. We would rather encounter a duplicate post in the tracker, than run into that bug a month or six later down the line.
+
 ## Known Issues <a name = "known_issues"></a>
 
 See reported in the [issue tracker](https://github.com/hariettem/Artemis/issues). Below are a number of issues we are aware of, and do not need bug reports for:
@@ -53,12 +60,11 @@ See reported in the [issue tracker](https://github.com/hariettem/Artemis/issues)
 3. Image previewer interactions are not smooth. [[ISSUE]](https://github.com/hariettem/Artemis/issues/75)
 4. Opening imgur thumbnail throws an error. [[ISSUE]](https://github.com/hariettem/Artemis/issues/60)
 5. Following a community does not update the subscription list. [[ISSUE]](https://github.com/hariettem/Artemis/issues/63)
-6. Sometimes the app crashes and there’s a white screen. Relaunching app causes an endless cycle (unless you navigate away from the post page while loading). [[ISSUE]](https://github.com/hariettem/Artemis/issues/40)
 
 Bear in mind graphical and interaction tweaks will occur. To list a few:
 
 - Swipe and default kbin interactions are being worked on.
-- Many icons and labels are placeholders, their functionality is not. 
+- Many icons and labels are placeholders, their functionality is not.
 - Positioning of menus, items, and layout of settings will change. Finding the right spots is a process.
 - Color themes will be adjusted if we find them unfavorable, or inaccessible. Accessibility remains important, and if you experience issues with a graphical design or color choice in multiple places **do make note of this** in the issue tracker.
 

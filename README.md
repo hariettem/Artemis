@@ -35,7 +35,7 @@ In order for you to effectively contribute to these cycles of Beta testing, we h
 
 **Reporting of Bugs, Enhancement, and Accesibility Requests**
 
-- GitHub: Bugs [[LINK](https://github.com/hariettem/Artemis/issues?q=label%3ABug+)
+- GitHub: Bugs [[LINK]](https://github.com/hariettem/Artemis/issues?q=label%3ABug+)
 - GitHub: Enhancements [[LINK]](https://github.com/hariettem/Artemis/issues?q=label%3AEnhancement+)
 - GitHub: Accesibility [[LINK]](https://github.com/hariettem/Artemis/issues?q=label%3AAccessibility+)
 
